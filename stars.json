@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "kuglee/TermiWatch",
+    "stargazers_count": 1786,
+    "open_issues_count": 41,
+    "forks_count": 154
+  },
+  {
+    "full_name": "halfnelson/svelte-native",
+    "stargazers_count": 1229,
+    "open_issues_count": 63,
+    "forks_count": 62
+  },
+  {
     "full_name": "lluiscamino/fake-tweet",
     "stargazers_count": 104,
     "open_issues_count": 1,
@@ -13,19 +25,19 @@
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 45576,
-    "open_issues_count": 300,
-    "forks_count": 1955
+    "stargazers_count": 45623,
+    "open_issues_count": 301,
+    "forks_count": 1958
   },
   {
     "full_name": "wting/autojump",
-    "stargazers_count": 13909,
+    "stargazers_count": 13938,
     "open_issues_count": 197,
-    "forks_count": 650
+    "forks_count": 651
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 3738,
+    "stargazers_count": 3773,
     "open_issues_count": 16,
     "forks_count": 65
   },
@@ -49,51 +61,51 @@
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 15441,
-    "open_issues_count": 30,
-    "forks_count": 2567
+    "stargazers_count": 15460,
+    "open_issues_count": 24,
+    "forks_count": 2582
   },
   {
     "full_name": "WebDevStudios/nextjs-wordpress-starter",
-    "stargazers_count": 533,
+    "stargazers_count": 534,
     "open_issues_count": 38,
     "forks_count": 100
   },
   {
     "full_name": "tom-doerr/zsh_codex",
-    "stargazers_count": 785,
+    "stargazers_count": 787,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "phpstan/phpstan",
-    "stargazers_count": 11137,
-    "open_issues_count": 703,
-    "forks_count": 800
+    "stargazers_count": 11155,
+    "open_issues_count": 710,
+    "forks_count": 801
   },
   {
     "full_name": "tj/git-extras",
-    "stargazers_count": 15676,
-    "open_issues_count": 124,
-    "forks_count": 1166
+    "stargazers_count": 15682,
+    "open_issues_count": 126,
+    "forks_count": 1168
   },
   {
     "full_name": "vizzuhq/vizzu-lib",
-    "stargazers_count": 1554,
-    "open_issues_count": 17,
+    "stargazers_count": 1555,
+    "open_issues_count": 19,
     "forks_count": 61
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 1143,
-    "open_issues_count": 14,
+    "stargazers_count": 1153,
+    "open_issues_count": 15,
     "forks_count": 72
   },
   {
     "full_name": "paperboi/kindle2notion",
-    "stargazers_count": 551,
-    "open_issues_count": 21,
-    "forks_count": 71
+    "stargazers_count": 553,
+    "open_issues_count": 8,
+    "forks_count": 72
   },
   {
     "full_name": "speric/kindle-highlights",
@@ -115,68 +127,56 @@
   },
   {
     "full_name": "wpengine/faustjs",
-    "stargazers_count": 909,
-    "open_issues_count": 22,
+    "stargazers_count": 913,
+    "open_issues_count": 20,
     "forks_count": 83
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 69485,
+    "stargazers_count": 69543,
     "open_issues_count": 64,
-    "forks_count": 9347
+    "forks_count": 9352
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18737,
+    "stargazers_count": 18752,
     "open_issues_count": 86,
-    "forks_count": 512
+    "forks_count": 513
   },
   {
     "full_name": "sebastianbergmann/phpunit",
-    "stargazers_count": 18532,
+    "stargazers_count": 18538,
     "open_issues_count": 191,
-    "forks_count": 2113
+    "forks_count": 2114
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 29448,
-    "open_issues_count": 33,
-    "forks_count": 1555
+    "stargazers_count": 29515,
+    "open_issues_count": 29,
+    "forks_count": 1556
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 8433,
-    "open_issues_count": 141,
-    "forks_count": 867
+    "stargazers_count": 8480,
+    "open_issues_count": 149,
+    "forks_count": 879
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 6110,
-    "open_issues_count": 24,
-    "forks_count": 407
+    "stargazers_count": 6117,
+    "open_issues_count": 25,
+    "forks_count": 406
   },
   {
     "full_name": "janeczku/calibre-web",
-    "stargazers_count": 6986,
-    "open_issues_count": 311,
-    "forks_count": 928
+    "stargazers_count": 7001,
+    "open_issues_count": 315,
+    "forks_count": 929
   },
   {
     "full_name": "XeroAPI/xero-php-oauth2",
     "stargazers_count": 64,
     "open_issues_count": 12,
     "forks_count": 54
-  },
-  {
-    "full_name": "sunnylqm/react-native-storage",
-    "stargazers_count": 2866,
-    "open_issues_count": 24,
-    "forks_count": 273
-  },
-  {
-    "full_name": "rt2zz/redux-persist",
-    "stargazers_count": 12192,
-    "open_issues_count": 545,
-    "forks_count": 841
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 39752,
+    "stargazers_count": 39791,
     "open_issues_count": 12,
-    "forks_count": 5855
+    "forks_count": 5868
   },
   {
     "full_name": "tywalch/electrodb",
-    "stargazers_count": 390,
-    "open_issues_count": 19,
+    "stargazers_count": 394,
+    "open_issues_count": 20,
     "forks_count": 10
   },
   {
     "full_name": "threlte/threlte",
-    "stargazers_count": 227,
+    "stargazers_count": 231,
     "open_issues_count": 12,
     "forks_count": 11
   },
@@ -25,39 +25,39 @@
   },
   {
     "full_name": "halfnelson/svelte-native",
-    "stargazers_count": 1235,
-    "open_issues_count": 67,
+    "stargazers_count": 1236,
+    "open_issues_count": 69,
     "forks_count": 62
   },
   {
     "full_name": "lluiscamino/fake-tweet",
     "stargazers_count": 104,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "openswoole/swoole-src",
-    "stargazers_count": 503,
+    "stargazers_count": 505,
     "open_issues_count": 16,
     "forks_count": 29
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 45732,
-    "open_issues_count": 301,
+    "stargazers_count": 45770,
+    "open_issues_count": 293,
     "forks_count": 1961
   },
   {
     "full_name": "wting/autojump",
-    "stargazers_count": 13973,
+    "stargazers_count": 13981,
     "open_issues_count": 197,
     "forks_count": 651
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 3874,
-    "open_issues_count": 19,
-    "forks_count": 68
+    "stargazers_count": 3911,
+    "open_issues_count": 15,
+    "forks_count": 72
   },
   {
     "full_name": "modess/deploying-php-applications",
@@ -75,18 +75,18 @@
     "full_name": "DavidDikker/endgame",
     "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 508
+    "forks_count": 509
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 15490,
-    "open_issues_count": 23,
-    "forks_count": 2601
+    "stargazers_count": 15501,
+    "open_issues_count": 26,
+    "forks_count": 2610
   },
   {
     "full_name": "WebDevStudios/nextjs-wordpress-starter",
-    "stargazers_count": 538,
-    "open_issues_count": 38,
+    "stargazers_count": 539,
+    "open_issues_count": 41,
     "forks_count": 101
   },
   {
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "phpstan/phpstan",
-    "stargazers_count": 11166,
-    "open_issues_count": 715,
-    "forks_count": 801
+    "stargazers_count": 11174,
+    "open_issues_count": 712,
+    "forks_count": 802
   },
   {
     "full_name": "tj/git-extras",
-    "stargazers_count": 15690,
-    "open_issues_count": 128,
+    "stargazers_count": 15697,
+    "open_issues_count": 126,
     "forks_count": 1168
   },
   {
     "full_name": "vizzuhq/vizzu-lib",
-    "stargazers_count": 1557,
+    "stargazers_count": 1564,
     "open_issues_count": 18,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 1161,
+    "stargazers_count": 1166,
     "open_issues_count": 15,
     "forks_count": 72
   },
   {
     "full_name": "paperboi/kindle2notion",
-    "stargazers_count": 560,
+    "stargazers_count": 562,
     "open_issues_count": 7,
     "forks_count": 73
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "nunomaduro/termwind",
-    "stargazers_count": 1403,
-    "open_issues_count": 4,
-    "forks_count": 56
+    "stargazers_count": 1469,
+    "open_issues_count": 6,
+    "forks_count": 57
   },
   {
     "full_name": "hazcod/cloudflare-workers-svelte",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "wpengine/faustjs",
-    "stargazers_count": 913,
-    "open_issues_count": 23,
+    "stargazers_count": 914,
+    "open_issues_count": 24,
     "forks_count": 83
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 69745,
+    "stargazers_count": 69867,
     "open_issues_count": 64,
-    "forks_count": 9389
+    "forks_count": 9414
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18769,
+    "stargazers_count": 18778,
     "open_issues_count": 87,
-    "forks_count": 514
+    "forks_count": 513
   },
   {
     "full_name": "sebastianbergmann/phpunit",
-    "stargazers_count": 18546,
-    "open_issues_count": 194,
-    "forks_count": 2111
+    "stargazers_count": 18549,
+    "open_issues_count": 195,
+    "forks_count": 2114
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 29614,
-    "open_issues_count": 31,
-    "forks_count": 1559
+    "stargazers_count": 29664,
+    "open_issues_count": 29,
+    "forks_count": 1562
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 8726,
-    "open_issues_count": 153,
-    "forks_count": 903
+    "stargazers_count": 8790,
+    "open_issues_count": 157,
+    "forks_count": 909
   }
 ]
